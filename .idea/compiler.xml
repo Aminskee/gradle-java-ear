@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="gradle-java-ear.ejb.main" target="1.8" />
+      <module name="gradle-java-ear.ejb.test" target="1.8" />
+      <module name="gradle-java-ear.war.main" target="1.8" />
+      <module name="gradle-java-ear.war.test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
