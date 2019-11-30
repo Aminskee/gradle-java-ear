@@ -5,4 +5,4 @@ build/
 ejb/.classpath
 ejb/derby.log
 war/.classpath
-.idea/*
+.idea/
